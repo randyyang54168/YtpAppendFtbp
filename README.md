@@ -1,9 +1,11 @@
 # Support OS
   Only Windows
 
+# Used FreeTube Ver.
+v0.23.4 Beta
 
 # Operation steps
-  1. Open FreeTube 
+  1. Open FreeTube
      -> Settings 
      -> Data / PlayLists
      -> Export Playlists 
@@ -14,7 +16,7 @@
   4. Select your Youtube playlist .csv's folder
   5. Select Step1. freetube-playlists-yyyy-MM-dd.db
   6. Wait until show msgbox Finished/All selected CSV files have been processed.
-  7. Open FreeTube 
+  7. Open FreeTube
      -> Settings 
      -> Data / PlayLists
      -> Import Playlists 
