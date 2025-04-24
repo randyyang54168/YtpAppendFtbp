@@ -23,9 +23,6 @@ D:\2024\GitHub\YtpImportFtbp\YtpImportFtbp\obj\Debug\YtpAppendFtbp.csproj.CoreCo
 D:\2024\GitHub\YtpImportFtbp\YtpImportFtbp\obj\Debug\YtpAppen.97926E1F.Up2Date
 D:\2024\GitHub\YtpImportFtbp\YtpImportFtbp\obj\Debug\YtpImportFtbp.exe
 D:\2024\GitHub\YtpImportFtbp\YtpImportFtbp\obj\Debug\YtpImportFtbp.pdb
-D:\2024\GitHub\YtpAppendFtbp\bin\Debug\YtpImportFtbp.exe.config
-D:\2024\GitHub\YtpAppendFtbp\bin\Debug\YtpImportFtbp.exe
-D:\2024\GitHub\YtpAppendFtbp\bin\Debug\YtpImportFtbp.pdb
 D:\2024\GitHub\YtpAppendFtbp\bin\Debug\Google.Apis.Auth.dll
 D:\2024\GitHub\YtpAppendFtbp\bin\Debug\Google.Apis.Core.dll
 D:\2024\GitHub\YtpAppendFtbp\bin\Debug\Google.Apis.dll
@@ -42,9 +39,12 @@ D:\2024\GitHub\YtpAppendFtbp\bin\Debug\Google.Apis.YouTube.v3.xml
 D:\2024\GitHub\YtpAppendFtbp\bin\Debug\Newtonsoft.Json.xml
 D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpAppendFtbp.csproj.AssemblyReference.cache
 D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpAppendFtbp.frmYoutubePlaylistConverter.resources
-D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpImportFtbp.Properties.Resources.resources
 D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpAppendFtbp.csproj.GenerateResource.cache
 D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpAppendFtbp.csproj.CoreCompileInputs.cache
 D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpAppen.97926E1F.Up2Date
-D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpImportFtbp.exe
-D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpImportFtbp.pdb
+D:\2024\GitHub\YtpAppendFtbp\bin\Debug\YtpAppendFtbp.exe.config
+D:\2024\GitHub\YtpAppendFtbp\bin\Debug\YtpAppendFtbp.exe
+D:\2024\GitHub\YtpAppendFtbp\bin\Debug\YtpAppendFtbp.pdb
+D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpAppendFtbp.Properties.Resources.resources
+D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpAppendFtbp.exe
+D:\2024\GitHub\YtpAppendFtbp\obj\Debug\YtpAppendFtbp.pdb

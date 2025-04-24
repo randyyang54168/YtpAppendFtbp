@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0109774F-D5EF-41FB-B96F-64D6FEC509E9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>YtpImportFtbp</RootNamespace>
-    <AssemblyName>YtpImportFtbp</AssemblyName>
+    <RootNamespace>YtpAppendFtbp</RootNamespace>
+    <AssemblyName>YtpAppendFtbp</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
